@@ -9,4 +9,4 @@ Deep Neural Network Regressor based tensorflow, including Dropout and Batch Norm
 - [Tensorlayer 1.8.3](https://github.com/tensorlayer/tensorlayer)
 
 ## Usage
-In dnn_regressor.py, there is a boston housing example help you to use the dnn_regressor.
+In dnn_regressor.py, there is a boston housing example helping you to use the dnn_regressor.
